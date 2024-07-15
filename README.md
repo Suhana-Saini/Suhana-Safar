@@ -11,7 +11,7 @@ Setup Instructions
 Installation
 Download the Executable
 
-Download the main.exe file from the releases() page.
+Download the main.exe file from the releases(https://github.com/Suhana-Saini/Suhana-Safar/releases/download/v1.0/main.exe) page.
 Run the Application
 
 Double-click main.exe to launch the Suhana Safar app.
